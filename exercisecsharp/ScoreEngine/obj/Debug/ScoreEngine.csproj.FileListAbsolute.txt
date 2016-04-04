@@ -1,0 +1,9 @@
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\ScoreEngine.exe.config
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\ScoreEngine.exe
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\ScoreEngine.pdb
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\CsvHelper.dll
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\LINQtoCSV.dll
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\CsvHelper.pdb
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\bin\Debug\CsvHelper.xml
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\obj\Debug\ScoreEngine.exe
+C:\Users\Randall\Documents\Visual Studio 2012\Projects\ScoreEngine\ScoreEngine\obj\Debug\ScoreEngine.pdb
